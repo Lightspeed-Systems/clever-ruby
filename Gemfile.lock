@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clever-ruby (2.0.2)
+    clever-ruby (2.0.3)
       json (>= 1.8, < 3)
       typhoeus (~> 1.0, >= 1.0.1)
 
